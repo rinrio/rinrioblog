@@ -25,6 +25,7 @@ Teremos 4 aulas de 2 horas cada, que seguirão o cronograma:
 
 - Programaçao Funcional: Com ajuda da biblioteca purrr, aprenderá os princípios do paradigma de programação funcional e entenderá como por meio dele é possivel escrever código eficiente, simples e resistente a erros.
 
+**Inscriçoes fechadas**. Possui interesse? Preencha esse formulário [aqui](https://forms.gle/4mduPtu7Sz88vaFt9)!
 
 Sobre o curso avançado:
 
