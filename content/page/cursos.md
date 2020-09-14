@@ -3,6 +3,7 @@ author: Time R in Rio
 date: "2020-09-13T02:13:50Z"
 description: Os cursos que oferecemos.
 title: Cursos
+draft: true
 ---
 
 Nós oferecemos atualmente um curso, este é voltado para os que estao iniciando na linguagem ou que 
