@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on R in Rio</title>
-    <link>https://rinrio.netlify.app/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on R in Rio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rinrio.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>vagas</title>
+      <link>/categories/vagas/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/vagas/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

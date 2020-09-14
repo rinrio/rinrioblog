@@ -2,39 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R in Rio</title>
-    <link>https://rinrio.netlify.app/</link>
+    <link>/</link>
     <description>Recent content on R in Rio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 13 Sep 2020 02:13:50 +0000</lastBuildDate>
     
-	<atom:link href="https://rinrio.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contato</title>
-      <link>https://rinrio.netlify.app/page/contact/</link>
+      <link>/page/contact/</link>
       <pubDate>Sun, 13 Sep 2020 02:13:50 +0000</pubDate>
       
-      <guid>https://rinrio.netlify.app/page/contact/</guid>
+      <guid>/page/contact/</guid>
       <description>Contato Para entrar em contato conosco pedimos que envie um e-mail para: rinriocurso@gmail.com.</description>
     </item>
     
     <item>
-      <title>Sobre</title>
-      <link>https://rinrio.netlify.app/page/about/</link>
+      <title>Cursos</title>
+      <link>/page/cursos/</link>
       <pubDate>Sun, 13 Sep 2020 02:13:50 +0000</pubDate>
       
-      <guid>https://rinrio.netlify.app/page/about/</guid>
-      <description>Motivos O R in Rio é uma ideia que foi gestada por Joao Pedro Oliveira e Pedro Cavalcante em uma linda tarde de quarentena. Ele tem como objetivo inicial oferecer cursos de R que fugissem do que é comumente ensinado nas universidades, pois há entre nós a percepçao de que o ensino de programaçao da forma que é feita nestas tem sido ineficiente. O que nós fazemos é trazer para as sessoes de ensino uma abordagem moderna do R com a utilizaçao Tidyverse por exemplos simples e exercícios interessantes e desafiadores.</description>
+      <guid>/page/cursos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material</title>
+      <link>/page/material/</link>
+      <pubDate>Sun, 13 Sep 2020 02:13:50 +0000</pubDate>
+      
+      <guid>/page/material/</guid>
+      <description>Oops, parece que ninguém preencheu essa página!</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/page/about/</link>
+      <pubDate>Sun, 13 Sep 2020 02:13:50 +0000</pubDate>
+      
+      <guid>/page/about/</guid>
+      <description>Motivos O R in Rio é uma ideia que foi gestada por Joao Pedro Oliveira e Pedro Cavalcante em uma linda tarde de quarentena. Ele tem como objetivo inicial oferecer cursos de R que fugissem do que é comumente ensinado nas universidades, pois há entre nós a percepçao de que o ensino de programaçao da forma que é feita nestas tem sido ineficiente, ensinam a escrever código engessado e longe das práticas recomendadas pela comunidade.</description>
+    </item>
+    
+    <item>
+      <title>Estamos contratando!</title>
+      <link>/post/estamos-contratando/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/estamos-contratando/</guid>
+      <description>Pessoal, eu e o Pedro estamos procurando um(a) assistente para nos ajudar com o Curso de R.
+ 8h por semana, durante os cursos. Valor da remuneraçao: R$800 por ediçao do curso.  Procuramos pessoas confortáveis em R, isso inclui, porém nao se limitando a:
+ Ser confortável resolvendo perguntas em R, Conhecimento do Tidyverse, Conhecimentos de Intermediários de Ingles, Formaçao qualquer.  Atribuiçoes:  Responder dúvidas por e-mail e auxiliar nas correçoes.</description>
     </item>
     
     <item>
       <title>My awesome project</title>
-      <link>https://rinrio.netlify.app/project/my-awesome-project/</link>
+      <link>/project/my-awesome-project/</link>
       <pubDate>Tue, 18 Nov 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://rinrio.netlify.app/project/my-awesome-project/</guid>
+      <guid>/project/my-awesome-project/</guid>
       <description>About project Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
     </item>
     

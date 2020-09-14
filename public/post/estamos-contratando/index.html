@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Estamos contratando! - R in Rio</title>
+    
+    <meta name="description" content="Pessoal, eu e o Pedro estamos procurando um(a) assistente para nos ajudar com o Curso de R.
+ 8h por semana, durante os cursos. Valor da remuneraçao: R$800 por ediçao do curso.  Procuramos pessoas confortáveis em R, isso inclui, porém nao se limitando a:
+ Ser confortável resolvendo perguntas em R, Conhecimento do Tidyverse, Conhecimentos de Intermediários de Ingles, Formaçao qualquer.  Atribuiçoes:  Responder dúvidas por e-mail e auxiliar nas correçoes.">
+    <meta name="author" content="Joao Pedro Oliveira">
+    
+    <link href="/an-old-hope.min.css" rel="stylesheet">
+    <link href="/style.css" rel="stylesheet">
+    <link href="/custom.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="icon" href="/favicon.ico">
+    <meta name="generator" content="Hugo 0.74.3" />
+    
+    
+    
+    <script>
+      function setTheme() {
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          document.body.classList.add('dark');
+          return;
+        }
+
+        const time = new Date();
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then((res) => res.json())
+            .then((data) => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="/">R in Rio</a></p>
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Estamos contratando!</h1>
+    <div class="post-meta">Joao Pedro Oliveira · September 13, 2020</div>
+  </header>
+  <div class="post-content"><p>Pessoal, eu e o Pedro estamos procurando um(a) assistente para nos ajudar com o Curso de R.</p>
+<ul>
+<li>8h por semana, durante os cursos.</li>
+<li>Valor da remuneraçao: R$800 por ediçao do curso.</li>
+</ul>
+<p>Procuramos pessoas confortáveis em R, isso inclui, porém nao se limitando a:</p>
+<ul>
+<li>Ser confortável resolvendo perguntas em R,</li>
+<li>Conhecimento do Tidyverse,</li>
+<li>Conhecimentos de Intermediários de Ingles,</li>
+<li>Formaçao qualquer.</li>
+</ul>
+<h3 id="atribuiçoes">Atribuiçoes:</h3>
+<ul>
+<li>Responder dúvidas por e-mail e auxiliar nas correçoes.</li>
+<li>Acompanhar as aulas</li>
+</ul>
+<p>O processo:</p>
+<ul>
+<li>O processo de seleçao é bem simples uma analise de curriculo, logo depois aplicaremos um simples teste[1] e por fim uma curta entrevista para que possamos nos conhecer (afinal, para muitos, somos uma lontra e um boneco de meia do twitter).</li>
+</ul>
+<p>Enviar curriculos para: <em><a href="mailto:pedrocolrj@gmail.com">pedrocolrj@gmail.com</a></em> com o título: <em>&ldquo;Currículo - Aplicaçao do Assistente - Curso R&rdquo;</em></p>
+<p>Data limite para envio: 16/setembro/2020.</p>
+<h3 id="adendo">Adendo:</h3>
+<p>Nao é uma vaga continua, isto é, sao 8horas semanais podendo ser feitas em horários flexiveis,
+enquanto existirem turmas abertas.
+Portanto, é possível que esteja conosco nesta vaga e continue suas atividades de pesquisa/estágio
+que já existirem anteriormente.</p>
+<ol>
+<li><em>em que voce só responderá as questoes do conforto da sua casa, nao será ao vivo</em></li>
+</ol>
+</div>
+  
+</article></main>
+<footer class="footer">
+  <span>&copy; 2020 <a href="/">R in Rio</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+

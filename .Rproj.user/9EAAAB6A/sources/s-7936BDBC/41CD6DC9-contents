@@ -1,4 +1,4 @@
-theme = "ghostwriter"
+theme = "hugo-paper"
 baseURL = "https://rinrio.netlify.app/"
 languageCode = "pt-br"
 title = "R in Rio"

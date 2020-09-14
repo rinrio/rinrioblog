@@ -1,12 +1,13 @@
 baseurl: "https://rinrio.netlify.app/"
 title: R in Rio
-theme: ghostwriter
-languageCode: en-us
+theme: hugo-paper
+languageCode: pt-br
 copyright: Pedro Cavalcante e Joao Pedro Oliveira
 disqusShortname: XXX
 googleAnalytics: XXX
 pygmentsUseClasses: true
 pygmentsCodefences: true
+
 
 markup:
   highlight:
@@ -28,7 +29,7 @@ privacy:
     useSessionStorage: false
 
 author:
-  name: My Name
+  name: Time R in Rio
   profile: "https://google.com/+XXX"
 
 taxonomies:
@@ -38,7 +39,7 @@ params:
   mainSections:
     - post
   intro: true
-  headline: R 
+  headline: R in Rio
   description: Ghostwriter example description
   github: "https://github.com/rinrio"
   gitlab: "https://gitlab.com/XXX"
@@ -71,7 +72,7 @@ menu:
       url: /
       weight: 1
     - name: Cursos
-      url: /project/
+      url: /cursos/
       weight: 2
     - name: Contato
       url: /page/contact/

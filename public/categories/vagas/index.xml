@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vagas on R in Rio</title>
+    <link>/categories/vagas/</link>
+    <description>Recent content in vagas on R in Rio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/vagas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estamos contratando!</title>
+      <link>/post/estamos-contratando/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/estamos-contratando/</guid>
+      <description>Pessoal, eu e o Pedro estamos procurando um(a) assistente para nos ajudar com o Curso de R.
+ 8h por semana, durante os cursos. Valor da remuneraçao: R$800 por ediçao do curso.  Procuramos pessoas confortáveis em R, isso inclui, porém nao se limitando a:
+ Ser confortável resolvendo perguntas em R, Conhecimento do Tidyverse, Conhecimentos de Intermediários de Ingles, Formaçao qualquer.  Atribuiçoes:  Responder dúvidas por e-mail e auxiliar nas correçoes.</description>
+    </item>
+    
+  </channel>
+</rss>

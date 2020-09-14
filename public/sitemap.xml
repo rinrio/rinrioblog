@@ -3,41 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rinrio.netlify.app/page/contact/</loc>
+    <loc>/page/contact/</loc>
     <lastmod>2020-09-13T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rinrio.netlify.app/page/</loc>
+    <loc>/page/cursos/</loc>
     <lastmod>2020-09-13T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rinrio.netlify.app/</loc>
+    <loc>/page/material/</loc>
     <lastmod>2020-09-13T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rinrio.netlify.app/page/about/</loc>
+    <loc>/page/</loc>
     <lastmod>2020-09-13T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rinrio.netlify.app/project/my-awesome-project/</loc>
+    <loc>/</loc>
+    <lastmod>2020-09-13T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/about/</loc>
+    <lastmod>2020-09-13T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/estamos-contratando/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/vagas/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/my-awesome-project/</loc>
     <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rinrio.netlify.app/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rinrio.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rinrio.netlify.app/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
