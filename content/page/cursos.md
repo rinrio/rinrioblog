@@ -11,7 +11,7 @@ desejam de atualizar por meio da utilizaçao do Tidyverse. Estamos planejando um
 para aqueles que já dominam o conjunto básico de ferramentas do Tidyverse, mas possuem interesse
 em aprender ferramentas mais avançadas e complexas.
 
-Sobre o curso para iniciantes:
+### Sobre o curso para iniciantes:
 
 O público-alvo inclui, porém não se limita a, graduandos e pós-graduandos nas ciências sociais e exatas e praticantes que gostariam de uma atualização dos conhecimentos em R e/ou um primeiro contato com a linguagem. O curso irá enfatizar atividades práticas de tratamento e análise de dados usando ferramentas de R moderno.
 
@@ -27,6 +27,6 @@ Teremos 4 aulas de 2 horas cada, que seguirão o cronograma:
 
 **Inscriçoes fechadas**. Possui interesse? Preencha esse formulário [aqui](https://forms.gle/4mduPtu7Sz88vaFt9)!
 
-Sobre o curso avançado:
+### Sobre o curso avançado:
 
 Ementa em construçao.
