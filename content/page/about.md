@@ -10,7 +10,8 @@ title: Sobre
 O R in Rio é uma ideia que foi gestada por Joao Pedro Oliveira e Pedro Cavalcante em uma
 linda tarde de quarentena. Ele tem como objetivo inicial oferecer cursos de R que fugissem
 do que é comumente ensinado nas universidades, pois há entre nós a percepçao de que o ensino
-de programaçao da forma que é feita nestas tem sido ineficiente. O que nós fazemos é trazer para
+de programaçao da forma que é feita nestas tem sido ineficiente, ensinam a escrever código
+engessado e longe das práticas recomendadas pela comunidade. O que nós fazemos é trazer para
 as sessoes de ensino uma abordagem moderna do R com a utilizaçao Tidyverse por exemplos simples e 
 exercícios interessantes e desafiadores.
 
