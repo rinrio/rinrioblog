@@ -33,7 +33,7 @@ enableInlineShortcodes = true
 
   [params.homeInfoParams]
     Title = "Olá! 👋"
-    Content = "Seja bem vindo ao site da R in Rio --- Até agora: 90 alunos e alunas já passaram por nossos cursos"
+    Content = "Seja bem vindo ao site da R in Rio |> Até agora: 90 alunos e alunas já passaram por nossos cursos"
 
   [[params.socialIcons]]
   name = "twitter"
