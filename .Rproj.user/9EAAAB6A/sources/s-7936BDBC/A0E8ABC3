@@ -3,14 +3,14 @@
     "path": "~/Documents/curso/rinrioblog/netlify.toml",
     "project_path": "netlify.toml",
     "type": "toml",
-    "hash": "4271199872",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1600052677510.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
-        "cursorPosition": "30,0",
+        "cursorPosition": "3,0",
         "scrollLine": "0"
     },
     "folds": "",
