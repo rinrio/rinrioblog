@@ -64,7 +64,7 @@ params:
   fathomSiteId: ""
 
 permalinks:
-  post: "/:year/:month/:day/:filename/"
+  post: "/post/:year/:month/:day/:filename/"
 
 menu:
   main:

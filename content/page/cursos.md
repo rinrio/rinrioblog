@@ -8,8 +8,7 @@ title: Cursos
 Nós oferecemos atualmente um curso, este é voltado para os que estao iniciando na linguagem ou que 
 desejam de atualizar por meio da utilizaçao do Tidyverse. Estamos planejando um curso avançado
 para aqueles que já dominam o conjunto básico de ferramentas do Tidyverse, mas possuem interesse
-em aprender ferramentas modernas como TidyEval, Shiny, construçao de bibliotecas, introduçao ao processamento de texto (stringr, tm, tidytext), 
-e o uso da biblioteca Fable e TidyModels, para séries temporais e modelagem tidy.
+em aprender ferramentas mais avançadas e complexas.
 
 Sobre o curso para iniciantes:
 

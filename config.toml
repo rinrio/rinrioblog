@@ -58,8 +58,8 @@ enableInlineShortcodes = true
 [menu]
 
   [[menu.main]]
-    name = "Inicio"
-    url = "/"
+    name = "Blog"
+    url = "post/"
     weight = 1
     
   [[menu.main]]

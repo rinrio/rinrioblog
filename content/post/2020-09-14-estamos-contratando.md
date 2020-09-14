@@ -38,7 +38,7 @@ Data limite para envio: 16/setembro/2020.
 
 ### Adendo: 
 
-Nao é uma vaga continua, isto é, sao 8horas semanais podendo ser feitas em horários flexiveis, 
+Nao é uma vaga continua, isto é, sao 8 horas semanais podendo ser feitas em horários flexiveis, 
 enquanto existirem turmas abertas. 
 Portanto, é possível que esteja conosco nesta vaga e continue suas atividades de pesquisa/estágio 
 que já existirem anteriormente.
