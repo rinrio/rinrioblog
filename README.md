@@ -1,0 +1,2 @@
+# rinrioblog
+Our blog :)
