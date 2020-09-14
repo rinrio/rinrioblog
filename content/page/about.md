@@ -9,7 +9,7 @@ draft: true
 ## Motivos
 
 O R in Rio é uma ideia que foi gestada por Joao Pedro Oliveira e Pedro Cavalcante em uma
-linda tarde da quarentena. 
+linda tarde da quarentena.
 
 Temos como objetivo inicial oferecer cursos de R que fugissem
 do que é comumente ensinado nas universidades, pois temos a percepçao de que o ensino
