@@ -1,8 +1,8 @@
-baseurl: "https://example.com/"
-title: Ghostwriter example
+baseurl: "https://rinrio.netlify.app/"
+title: R in Rio
 theme: ghostwriter
 languageCode: en-us
-copyright: My Name
+copyright: Pedro Cavalcante e Joao Pedro Oliveira
 disqusShortname: XXX
 googleAnalytics: XXX
 pygmentsUseClasses: true
@@ -38,9 +38,9 @@ params:
   mainSections:
     - post
   intro: true
-  headline: Ghostwriter example
+  headline: R 
   description: Ghostwriter example description
-  github: "https://github.com/XXX"
+  github: "https://github.com/rinrio"
   gitlab: "https://gitlab.com/XXX"
   linkedin: "https://linkedin.com/in/XXX/"
   twitter: "https://twitter.com/XXX"
@@ -49,8 +49,8 @@ params:
   email: XXX@example.com
   opengraph: true
   shareTwitter: true
-  shareFacebook: true
-  shareGooglePlus: true
+  shareFacebook: false
+  shareGooglePlus: false
   shareLinkedIn: false
   dateFormat: "Mon, Jan 2, 2006"
   exponeaJsUrl: ""
@@ -58,7 +58,7 @@ params:
   exponeaToken: ""
   exponeaTrackVisits: false
   readingTime: true
-  readingTimeText: "Estimated reading time:"
+  readingTimeText: "Tempo estimado de leitura:"
   fathomUrl: ""
   fathomSiteId: ""
 
@@ -70,12 +70,12 @@ menu:
     - name: Blog
       url: /
       weight: 1
-    - name: Projects
+    - name: Cursos
       url: /project/
       weight: 2
-    - name: Contact
+    - name: Contato
       url: /page/contact/
       weight: 3
-    - name: About
+    - name: Sobre
       url: /page/about/
       weight: 4

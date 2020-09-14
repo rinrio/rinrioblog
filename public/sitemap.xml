@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/page/about/</loc>
+    <loc>https://rinrio.netlify.app/page/about/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/page/contact/</loc>
+    <loc>https://rinrio.netlify.app/page/contact/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/page/</loc>
+    <loc>https://rinrio.netlify.app/page/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://rinrio.netlify.app/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/project/my-awesome-project/</loc>
+    <loc>https://rinrio.netlify.app/project/my-awesome-project/</loc>
     <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/project/</loc>
+    <loc>https://rinrio.netlify.app/project/</loc>
     <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://rinrio.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://rinrio.netlify.app/tags/</loc>
   </url>
   
 </urlset>
