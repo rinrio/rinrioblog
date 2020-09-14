@@ -1,91 +1,79 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <title>Estamos contratando! - R in Rio</title>
-    
-    <meta name="description" content="Pessoal, eu e o Pedro estamos procurando um(a) assistente para nos ajudar com o Curso de R.
+<html lang="pt">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title>Estamos contratando! - R in Rio</title>
+
+<meta name="description" content="Pessoal, eu e o Pedro estamos procurando um(a) assistente para nos ajudar com o Curso de R.
  8h por semana, durante os cursos. Valor da remuneraçao: R$800 por ediçao do curso.  Procuramos pessoas confortáveis em R, isso inclui, porém nao se limitando a:
  Ser confortável resolvendo perguntas em R, Conhecimento do Tidyverse, Conhecimentos de Intermediários de Ingles, Formaçao qualquer.  Atribuiçoes:  Responder dúvidas por e-mail e auxiliar nas correçoes.">
-    <meta name="author" content="Joao Pedro Oliveira">
-    
-    <link href="/an-old-hope.min.css" rel="stylesheet">
-    <link href="/style.css" rel="stylesheet">
-    <link href="/custom.css" rel="stylesheet">
-    
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-    <link rel="icon" href="/favicon.ico">
-    <meta name="generator" content="Hugo 0.74.3" />
-    
-    
-    
-    <script>
-      function setTheme() {
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-          document.body.classList.add('dark');
-          return;
-        }
+<meta name="author" content="Joao Pedro Oliveira">
 
-        const time = new Date();
-        const prev = localStorage.getItem('date');
-        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
 
-        const now = time.getTime();
-        let sunrise;
-        let sunset;
 
-        function setBodyClass() {
-          if (now > sunrise && now < sunset) return;
-          document.body.classList.add('dark');
-        }
 
-        if (date !== prev) {
-          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
-            .then((res) => res.json())
-            .then((data) => {
-              sunrise = data.sunrise.split(':').map(Number);
-              sunset = data.sunset.split(':').map(Number);
-            })
-            .catch(() => {
-              sunrise = [7, 0];
-              sunset = [19, 0];
-            })
-            .finally(() => {
-              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
-              sunset = time.setHours(sunset[0], sunset[1], 0);
-              setBodyClass();
-              localStorage.setItem('sunrise', sunrise);
-              localStorage.setItem('sunset', sunset);
-            });
-          localStorage.setItem('date', date);
-        } else {
-          sunrise = Number(localStorage.getItem('sunrise'));
-          sunset = Number(localStorage.getItem('sunset'));
-          setBodyClass();
-        }
-      }
-    </script>
-  </head>
-  <body class="single">
-    <script>
-      setTheme();
-    </script>
-    <header class="header">
-      <nav class="nav">
+
+
+
+
+
+
+
+
+
+
+
+<link href="/css/stylesheet.min.c5f3513f5b80c2549e72d959bdae43941f36c204c7504248d1e05f5fa480f14a.css" integrity="sha256-xfNRP1uAwlSectlZva5DlB82wgTHUEJI0eBfX6SA8Uo=" rel="preload stylesheet"
+    as="style">
+
+
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico">
+<meta name="generator" content="Hugo 0.74.3" />
+
+
+
+</head>
+
+<body
+    class="single"
+    id="top"><header class="header">
+    <nav class="nav">
         <p class="logo"><a href="/">R in Rio</a></p>
-      </nav>
-    </header>
+        <ul class="menu" id="menu" onscroll="menu_on_scroll()">
+            <li>
+                <a href="/">Inicio</a>
+            </li>
+            <li>
+                <a href="/page/cursos/">Cursos</a>
+            </li>
+            <li>
+                <a href="/page/material/">Material</a>
+            </li>
+            <li>
+                <a href="/page/about/">Sobre nós</a>
+            </li>
+            <li>
+                <a href="/page/contact/">Contato</a>
+            </li>
+        </ul>
+    </nav>
+</header>
     <main class="main">
-
 
 <article class="post-single">
   <header class="post-header">
-    <h1 class="post-title">Estamos contratando!</h1>
+    <h1 class="post-title">
+      Estamos contratando!
+    </h1>
+    
     <div class="post-meta">Joao Pedro Oliveira · September 13, 2020</div>
+    
   </header>
+  
   <div class="post-content"><p>Pessoal, eu e o Pedro estamos procurando um(a) assistente para nos ajudar com o Curso de R.</p>
 <ul>
 <li>8h por semana, durante os cursos.</li>
@@ -118,19 +106,59 @@ que já existirem anteriormente.</p>
 <li><em>em que voce só responderá as questoes do conforto da sua casa, nao será ao vivo</em></li>
 </ol>
 </div>
-  
-</article></main>
-<footer class="footer">
-  <span>&copy; 2020 <a href="/">R in Rio</a></span>
-  <span>&middot;</span>
-  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
-  <span>&middot;</span>
-  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+  <footer class="post-footer">
+    
+  </footer>
+</article>
+
+
+    </main><footer class="footer">
+    <span>&copy; 2020 <a href="/">R in Rio</a></span>
+    <span>&middot;</span>
+    <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+    <span>&middot;</span>
+    <span>Theme️ <a href="https://github.com/adityatelange/hugo-PaperMod" rel="noopener"
+            target="_blank">PaperMod</a></span>
 </footer>
-<script src="/highlight.min.js"></script>
+<a href="#top" aria-label="go to top">
+    <button class="top-link" id="top-link" type="button">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
+            <path d="M12 6H0l6-6z" /></svg>
+    </button>
+</a>
+
+
+<script src="/js/highlight.min.min.be617795b40f52d6ca2248c7fbf433c49211c7acfe8f221ac54f6b0007c66ea1.js" integrity="sha256-vmF3lbQPUtbKIkjH&#43;/QzxJIRx6z&#43;jyIaxU9rAAfGbqE="></script>
 <script>
-  hljs.initHighlightingOnLoad();
+    window.onload = function () {
+        if (localStorage.getItem("menu-scroll-position")) {
+            document.getElementById('menu').scrollLeft = localStorage.getItem("menu-scroll-position");
+        }
+    }
+    hljs.initHighlightingOnLoad();
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+
+            document.querySelector(this.getAttribute("href")).scrollIntoView({
+                behavior: "smooth"
+            });
+        });
+    });
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+    function menu_on_scroll() {
+        localStorage.setItem("menu-scroll-position", document.getElementById('menu').scrollLeft);
+    }
 </script>
 </body>
-</html>
 
+</html>

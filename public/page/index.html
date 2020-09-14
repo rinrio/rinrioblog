@@ -1,145 +1,191 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <title>Pages - R in Rio</title>
-    
-    <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <link href="/an-old-hope.min.css" rel="stylesheet">
-    <link href="/style.css" rel="stylesheet">
-    <link href="/custom.css" rel="stylesheet">
-    
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-    <link rel="icon" href="/favicon.ico">
-    <meta name="generator" content="Hugo 0.74.3" />
-    
-    <link rel="alternate" type="application/rss+xml" href="/page/index.xml" title="R in Rio" />
-    
-    
-    <script>
-      function setTheme() {
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-          document.body.classList.add('dark');
-          return;
-        }
+<html lang="pt">
 
-        const time = new Date();
-        const prev = localStorage.getItem('date');
-        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        const now = time.getTime();
-        let sunrise;
-        let sunset;
+<title>Pages - R in Rio</title>
 
-        function setBodyClass() {
-          if (now > sunrise && now < sunset) return;
-          document.body.classList.add('dark');
-        }
+<meta name="description" content="Pages">
+<meta name="author" content="Theme PaperMod">
 
-        if (date !== prev) {
-          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
-            .then((res) => res.json())
-            .then((data) => {
-              sunrise = data.sunrise.split(':').map(Number);
-              sunset = data.sunset.split(':').map(Number);
-            })
-            .catch(() => {
-              sunrise = [7, 0];
-              sunset = [19, 0];
-            })
-            .finally(() => {
-              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
-              sunset = time.setHours(sunset[0], sunset[1], 0);
-              setBodyClass();
-              localStorage.setItem('sunrise', sunrise);
-              localStorage.setItem('sunset', sunset);
-            });
-          localStorage.setItem('date', date);
-        } else {
-          sunrise = Number(localStorage.getItem('sunrise'));
-          sunset = Number(localStorage.getItem('sunset'));
-          setBodyClass();
-        }
-      }
-    </script>
-  </head>
-  <body class="list">
-    <script>
-      setTheme();
-    </script>
-    <header class="header">
-      <nav class="nav">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/css/stylesheet.min.c5f3513f5b80c2549e72d959bdae43941f36c204c7504248d1e05f5fa480f14a.css" integrity="sha256-xfNRP1uAwlSectlZva5DlB82wgTHUEJI0eBfX6SA8Uo=" rel="preload stylesheet"
+    as="style">
+
+
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico">
+<meta name="generator" content="Hugo 0.74.3" />
+
+<link rel="alternate" type="application/rss+xml" href="/page/index.xml" title="R in Rio" />
+
+
+</head>
+
+<body
+    class="list"
+    id="top"><header class="header">
+    <nav class="nav">
         <p class="logo"><a href="/">R in Rio</a></p>
-      </nav>
-    </header>
+        <ul class="menu" id="menu" onscroll="menu_on_scroll()">
+            <li>
+                <a href="/">Inicio</a>
+            </li>
+            <li>
+                <a href="/page/cursos/">Cursos</a>
+            </li>
+            <li>
+                <a href="/page/material/">Material</a>
+            </li>
+            <li>
+                <a href="/page/about/">Sobre nós</a>
+            </li>
+            <li>
+                <a href="/page/contact/">Contato</a>
+            </li>
+        </ul>
+    </nav>
+</header>
     <main class="main">
 
-<header class="page-header"><h1>Pages</h1></header>
+ 
+<header class="page-header">
+  <h1>Pages</h1>
+</header>
+
+
+
+
+
+
+
 
 <article class="post-entry">
   <header class="entry-header">
-    <h2>Contato</h2>
+    <h2>
+      Contato
+    </h2>
   </header>
+  
   <section class="entry-content">
-   <p>Contato Para entrar em contato conosco pedimos que envie um e-mail para: rinriocurso@gmail.com....</p>
+    <p>Contato Para entrar em contato conosco pedimos que envie um e-mail para: rinriocurso@gmail.com....</p>
   </section>
+  
   <footer class="entry-footer">
     <time>September 13, 2020</time>
+     .
+    1min read
+     . Time R in Rio
   </footer>
-  <a class="entry-link" href="/page/contact/"></a>
+  <a class="entry-link" aria-label="post link to Contato" href="/page/contact/"></a>
 </article>
 <article class="post-entry">
   <header class="entry-header">
-    <h2>Cursos</h2>
+    <h2>
+      Cursos
+    </h2>
   </header>
+  
   <section class="entry-content">
-   <p>...</p>
+    <p>Nós oferecemos atualmente um curso, este é voltado para os que estao iniciando na linguagem ou que desejam de atualizar por meio da utilizaçao do Tidyverse. Estamos planejando um curso avançado para aqueles que já dominam o conjunto básico de ferramentas do Tidyverse, mas possuem interesse em aprender ferramentas modernas como TidyEval, Shiny, construçao de bibliotecas, introduçao ao processamento de texto (stringr, tm, tidytext), e o uso da biblioteca Fable e TidyModels, para séries temporais e modelagem tidy....</p>
   </section>
+  
   <footer class="entry-footer">
     <time>September 13, 2020</time>
+     .
+    2min read
+     . Time R in Rio
   </footer>
-  <a class="entry-link" href="/page/cursos/"></a>
+  <a class="entry-link" aria-label="post link to Cursos" href="/page/cursos/"></a>
 </article>
 <article class="post-entry">
   <header class="entry-header">
-    <h2>Material</h2>
+    <h2>
+      Material
+    </h2>
   </header>
+  
   <section class="entry-content">
-   <p>Oops, parece que ninguém preencheu essa página!...</p>
+    <p>Oops, parece que ninguém preencheu essa página!...</p>
   </section>
+  
   <footer class="entry-footer">
     <time>September 13, 2020</time>
+     .
+    1min read
+     . Time R in Rio
   </footer>
-  <a class="entry-link" href="/page/material/"></a>
+  <a class="entry-link" aria-label="post link to Material" href="/page/material/"></a>
 </article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Sobre</h2>
-  </header>
-  <section class="entry-content">
-   <p>Motivos O R in Rio é uma ideia que foi gestada por Joao Pedro Oliveira e Pedro Cavalcante em uma linda tarde de quarentena. Ele tem como objetivo inicial oferecer cursos de R que fugissem do que é comumente ensinado nas universidades, pois há entre nós a percepçao de que o ensino de programaçao da forma que é feita nestas tem sido ineficiente, ensinam a escrever código engessado e longe das práticas recomendadas pela comunidade....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>September 13, 2020</time>
-  </footer>
-  <a class="entry-link" href="/page/about/"></a>
-</article></main>
-<footer class="footer">
-  <span>&copy; 2020 <a href="/">R in Rio</a></span>
-  <span>&middot;</span>
-  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
-  <span>&middot;</span>
-  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="next" href="/page/page/2/"> »</a>
+  </nav>
 </footer>
-<script src="/highlight.min.js"></script>
+
+
+    </main><footer class="footer">
+    <span>&copy; 2020 <a href="/">R in Rio</a></span>
+    <span>&middot;</span>
+    <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+    <span>&middot;</span>
+    <span>Theme️ <a href="https://github.com/adityatelange/hugo-PaperMod" rel="noopener"
+            target="_blank">PaperMod</a></span>
+</footer>
+<a href="#top" aria-label="go to top">
+    <button class="top-link" id="top-link" type="button">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
+            <path d="M12 6H0l6-6z" /></svg>
+    </button>
+</a>
+
+
+<script src="/js/highlight.min.min.be617795b40f52d6ca2248c7fbf433c49211c7acfe8f221ac54f6b0007c66ea1.js" integrity="sha256-vmF3lbQPUtbKIkjH&#43;/QzxJIRx6z&#43;jyIaxU9rAAfGbqE="></script>
 <script>
-  hljs.initHighlightingOnLoad();
+    window.onload = function () {
+        if (localStorage.getItem("menu-scroll-position")) {
+            document.getElementById('menu').scrollLeft = localStorage.getItem("menu-scroll-position");
+        }
+    }
+    hljs.initHighlightingOnLoad();
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+
+            document.querySelector(this.getAttribute("href")).scrollIntoView({
+                behavior: "smooth"
+            });
+        });
+    });
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+    function menu_on_scroll() {
+        localStorage.setItem("menu-scroll-position", document.getElementById('menu').scrollLeft);
+    }
 </script>
 </body>
-</html>
 
+</html>

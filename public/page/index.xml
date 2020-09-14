@@ -6,6 +6,7 @@
     <description>Recent content in Pages on R in Rio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <copyright>Copyright © 2020 Pedro Cavalcante e Joao Pedro Oliveira; all rights reserved.</copyright>
     <lastBuildDate>Sun, 13 Sep 2020 02:13:50 +0000</lastBuildDate>
     
 	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +27,7 @@
       <pubDate>Sun, 13 Sep 2020 02:13:50 +0000</pubDate>
       
       <guid>/page/cursos/</guid>
-      <description></description>
+      <description>Nós oferecemos atualmente um curso, este é voltado para os que estao iniciando na linguagem ou que desejam de atualizar por meio da utilizaçao do Tidyverse. Estamos planejando um curso avançado para aqueles que já dominam o conjunto básico de ferramentas do Tidyverse, mas possuem interesse em aprender ferramentas modernas como TidyEval, Shiny, construçao de bibliotecas, introduçao ao processamento de texto (stringr, tm, tidytext), e o uso da biblioteca Fable e TidyModels, para séries temporais e modelagem tidy.</description>
     </item>
     
     <item>

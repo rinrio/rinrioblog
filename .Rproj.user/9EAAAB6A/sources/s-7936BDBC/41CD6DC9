@@ -3,22 +3,22 @@
     "path": "~/Documents/curso/rinrioblog/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "2364427417",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1600052608976.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
-        "cursorPosition": "3,17",
+        "cursorPosition": "16,23",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1600056725,
+    "lastKnownWriteTime": 1600058335,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1600056725088,
+    "last_content_update": 1600058335943,
     "read_only": false,
     "read_only_alternatives": []
 }

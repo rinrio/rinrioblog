@@ -1,6 +1,6 @@
 baseurl: "https://rinrio.netlify.app/"
 title: R in Rio
-theme: hugo-paper
+theme: hugo-PaperMod
 languageCode: pt-br
 copyright: Pedro Cavalcante e Joao Pedro Oliveira
 disqusShortname: XXX
@@ -82,4 +82,3 @@ menu:
       weight: 4
     - name: Material
       url: page/material/
-      weigth: 5

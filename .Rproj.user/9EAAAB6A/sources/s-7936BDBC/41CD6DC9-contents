@@ -1,4 +1,115 @@
-theme = "hugo-paper"
+theme = "hugo-PaperMod"
 baseURL = "https://rinrio.netlify.app/"
 languageCode = "pt-br"
 title = "R in Rio"
+author = "Time R in Rio"
+copyright = "Copyright © 2020 Pedro Cavalcante e Joao Pedro Oliveira; all rights reserved."
+paginate = 3
+DefaultContentLanguage = "pt"
+enableInlineShortcodes = true
+
+[params]
+  description = "Construindo uma comunidade com cursos acessíveis"
+  author = "Theme PaperMod"
+  ShowReadingTime = true
+  SetThemeAuto = true
+  contentTypeName = "posts"
+  defaultTheme = "auto"
+  ShowShareButtons = false
+
+  [params.profileMode]
+  enabled = false
+  title = "PaperMod"
+  imageUrl = "#"
+  imageTitle = "my image"
+
+  [[params.profileMode.buttons]]
+  name = "Archives"
+  url = "archives"
+
+  [[params.profileMode.buttons]]
+  name = "Tags"
+  url = "tags"
+
+  [params.homeInfoParams]
+    Title = "Olá! 👋"
+    Content = "Seja bem vindo ao site da R in Rio"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "#"
+
+#  [[params.socialIcons]]
+#  name = "stackoverflow"
+#  url = "#"
+
+#  [[params.socialIcons]]
+#  name = "codepen"
+#  url = "#"
+
+#  [[params.socialIcons]]
+#  name = "linkedin"
+#  url = "#"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "www.github.com/rinrio"
+
+[menu]
+
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+    
+  [[menu.main]]
+    name = "Cursos"
+    url = "page/cursos/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Material"
+    url = "page/material/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Sobre nós"
+    url = "page/about/"
+    weight = 15
+
+  [[menu.main]]
+    name = "Contato"
+    url = "page/contact/"
+    weight = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
