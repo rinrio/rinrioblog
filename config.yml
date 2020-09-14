@@ -46,7 +46,7 @@ params:
   twitter: "https://twitter.com/XXX"
   stackoverflow: "https://stackoverflow.com/users/XXX/YYY"
   facebook: "https://www.facebook.com/username"
-  email: XXX@example.com
+  email: rinriocurso@gmail.com
   opengraph: true
   shareTwitter: true
   shareFacebook: false
@@ -79,3 +79,6 @@ menu:
     - name: Sobre
       url: /page/about/
       weight: 4
+    - name: Material
+      url: page/material/
+      weigth: 5

@@ -1,14 +1,25 @@
 ---
-author: My Name
-date: "2015-04-03T02:13:50Z"
-description: Things about me.
-title: About
+author: Time R in Rio
+date: "2020-09-13T02:13:50Z"
+description: O R in Rio e quem somos.
+title: Sobre
 ---
 
-## About
+## Motivos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien. Sed id vehicula lectus, sit amet auctor ipsum. Nunc sed massa vel ex condimentum aliquam in a enim. Cras enim sem, tristique eu enim ac, congue commodo mi. Integer quis orci at dolor blandit eleifend.
+O R in Rio é uma ideia que foi gestada por Joao Pedro Oliveira e Pedro Cavalcante em uma
+linda tarde de quarentena. Ele tem como objetivo inicial oferecer cursos de R que fugissem
+do que é comumente ensinado nas universidades, pois há entre nós a percepçao de que o ensino
+de programaçao da forma que é feita nestas tem sido ineficiente. O que nós fazemos é trazer para
+as sessoes de ensino uma abordagem moderna do R com a utilizaçao Tidyverse por exemplos simples e 
+exercícios interessantes e desafiadores.
 
-## School
+## Quem somos nós
 
-Sed quis pulvinar nisi, sed dapibus lacus. Mauris tempus ex ut ipsum facilisis interdum. Integer feugiat urna sed feugiat tempor. Quisque dictum vestibulum feugiat. Nunc nec est volutpat lorem imperdiet egestas sit amet ut orci. Aliquam venenatis neque ipsum, a placerat lectus cursus at. Donec pellentesque tellus hendrerit faucibus posuere. Etiam gravida consequat lectus, volutpat consectetur velit convallis nec. Praesent sagittis luctus dignissim.
+- **Joao Pedro Oliveira**: Assistente de pesquisa na Emory University, com passagens por locais como
+o Instituto de Pesquisa Economica Aplicada, o Departamento de Economia da PUC-Rio e por empresas 
+do setor privado, tendo atuado com R em todos esses postos. É apaixonado pela linguagem e programa 
+em uma frequencia quase que diária desde o inicio de 2018. Também se aventura por linguagens 
+como Rust, Clojure, Python e está iniciando em OCaml.
+
+- Pedro Cavalcante é [para ser preenchido].

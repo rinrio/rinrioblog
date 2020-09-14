@@ -6,27 +6,27 @@
     <description>Recent content in Pages on R in Rio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 02:13:50 +0000</lastBuildDate>
     
 	<atom:link href="https://rinrio.netlify.app/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://rinrio.netlify.app/page/about/</link>
-      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      <title>Contato</title>
+      <link>https://rinrio.netlify.app/page/contact/</link>
+      <pubDate>Sun, 13 Sep 2020 02:13:50 +0000</pubDate>
       
-      <guid>https://rinrio.netlify.app/page/about/</guid>
-      <description>About Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien.</description>
+      <guid>https://rinrio.netlify.app/page/contact/</guid>
+      <description>Contato Para entrar em contato conosco pedimos que envie um e-mail para: rinriocurso@gmail.com.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://rinrio.netlify.app/page/contact/</link>
-      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      <title>Sobre</title>
+      <link>https://rinrio.netlify.app/page/about/</link>
+      <pubDate>Sun, 13 Sep 2020 02:13:50 +0000</pubDate>
       
-      <guid>https://rinrio.netlify.app/page/contact/</guid>
-      <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
+      <guid>https://rinrio.netlify.app/page/about/</guid>
+      <description>Motivos O R in Rio é uma ideia que foi gestada por Joao Pedro Oliveira e Pedro Cavalcante em uma linda tarde de quarentena. Ele tem como objetivo inicial oferecer cursos de R que fugissem do que é comumente ensinado nas universidades, pois há entre nós a percepçao de que o ensino de programaçao da forma que é feita nestas tem sido ineficiente. O que nós fazemos é trazer para as sessoes de ensino uma abordagem moderna do R com a utilizaçao Tidyverse por exemplos simples e exercícios interessantes e desafiadores.</description>
     </item>
     
   </channel>
