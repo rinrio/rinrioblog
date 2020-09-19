@@ -6,6 +6,7 @@ slug: estamos-contratando
 categories:
   - vagas
 tags: []
+hidden: true
 description: 'Novidades em um futuro próximo, portanto, precisaremos de ajuda nessa tarefa :)'
 ---
 
