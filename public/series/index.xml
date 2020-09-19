@@ -6,10 +6,6 @@
     <description>Recent content in Series on R in Rio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>Copyright © 2020 Pedro Cavalcante e Joao Pedro Oliveira; all rights reserved.</copyright>
-    
-	<atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright © 2020 Pedro Cavalcante e Joao Pedro Oliveira; all rights reserved.</copyright><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

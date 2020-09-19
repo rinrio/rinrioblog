@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on R in Rio</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on R in Rio</description>
+    <title>turma nova on R in Rio</title>
+    <link>/categories/turma-nova/</link>
+    <description>Recent content in turma nova on R in Rio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>Copyright © 2020 Pedro Cavalcante e Joao Pedro Oliveira; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/turma-nova/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abertas inscriçoes para a segunda turma de introduçao ao R</title>
       <link>/post/abertura-turma2-introducao-r/</link>
@@ -16,17 +16,6 @@
       <guid>/post/abertura-turma2-introducao-r/</guid>
       <description>Estao abertas as vagas para a nossa segunda turma de introdução e atualização em R moderno, utilizando Tidyverse. As aulas serão dadas por meio da plataforma Zoom, nos dias 6, 8, 13, 14 de outubro de 19h até 21h. Também disponibilizamos o conteúdo gravado (por 30 dias) para os que não conseguirem assistir as aulas nos horários. Durante as sessoes serão abordados os seguintes conteúdos:
   06/10- Sintaxe: o aluno irá entender como que são estruturados códigos e terá o primeiro contato com conceitos como a atribuição de variáveis, controle de fluxo, comentários e funções.</description>
-    </item>
-    
-    <item>
-      <title>Estamos contratando!</title>
-      <link>/post/estamos-contratando/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/estamos-contratando/</guid>
-      <description>Pessoal, eu e o Pedro estamos procurando um(a) assistente para nos ajudar com o Curso de R.
- 8h por semana, durante os cursos. Valor da remuneraçao: R$800 por ediçao do curso.  Procuramos pessoas confortáveis em R, isso inclui, porém nao se limitando a:
- Ser confortável resolvendo perguntas em R, Conhecimento do Tidyverse, Conhecimentos de Intermediários de Ingles, Formaçao qualquer.  Atribuiçoes:  Responder dúvidas por e-mail e auxiliar nas correçoes.</description>
     </item>
     
   </channel>
