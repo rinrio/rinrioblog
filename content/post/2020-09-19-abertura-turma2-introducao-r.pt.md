@@ -22,5 +22,7 @@ dadas por meio da plataforma Zoom, nos dias 6, 8, 13, 14 de outubro de 19h até 
 
 **A vaga individual custa R$100**.
 
+As aulas ficam gravadas para caso o aluno nao consiga assistir de forma síncrona.
+
 [**Inscriçoes AQUI, vagas limitadas.**](https://www.eventbrite.com.br/e/r-in-rio-segunda-turma-tickets-121095344435)
 
