@@ -1,5 +1,5 @@
 ---
-title: Abertas inscriçoes para a segunda turma de introduçao ao R
+title: Encerradas inscriçoes para a segunda turma de introduçao ao R
 author: Joao Pedro Oliveira, Pedro Cavalcante
 date: '2020-09-19'
 slug: abertura-turma2-introducao-r
@@ -24,5 +24,5 @@ dadas por meio da plataforma Zoom, nos dias 6, 8, 13, 14 de outubro de 19h até 
 
 As aulas ficam gravadas para caso o aluno nao consiga assistir de forma síncrona.
 
-[**Inscriçoes AQUI, vagas limitadas.**](https://www.eventbrite.com.br/e/r-in-rio-segunda-turma-tickets-121095344435)
+[**Inscriçoes Encerradas.**](https://rinrio.netlify.app/page/cursos/)
 
