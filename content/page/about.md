@@ -31,3 +31,5 @@ em uma frequencia quase que diária desde o inicio de 2018. Também se aventura 
 como Rust, Clojure, Python e está iniciando em OCaml.
 
 - Pedro Cavalcante é [para ser preenchido].
+
+- Marina Merlo [para ser preenchido].

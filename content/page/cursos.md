@@ -3,7 +3,7 @@ author: Time R in Rio
 date: "2020-09-13T02:13:50Z"
 description: Os cursos que oferecemos.
 title: Cursos
-draft: False
+draft: false
 ---
 
 Nós oferecemos atualmente um curso, este é voltado para os que estao iniciando na linguagem ou que desejam de atualizar por meio da utilizaçao do Tidyverse. Estamos planejando um curso avançado para aqueles que já dominam o conjunto básico de ferramentas do Tidyverse, mas possuem interesse em aprender ferramentas mais avançadas e complexas.
