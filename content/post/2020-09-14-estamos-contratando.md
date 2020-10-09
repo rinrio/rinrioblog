@@ -33,8 +33,7 @@ O processo:
 
 
 
-Enviar curriculos para: *pedrocolrj@gmail.com* com o título: *"Currículo - Aplicaçao do Assistente - Curso R"*
-
+Enviar curriculos para: **Inscriçoes Encerradas**
 Data limite para envio: 16/setembro/2020.
 
 ### Adendo: 
