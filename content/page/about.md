@@ -3,13 +3,12 @@ author: Time R in Rio
 date: "2020-09-13T02:13:50Z"
 description: O R in Rio e quem somos.
 title: Sobre
-draft: true
 ---
 
 ## Motivos
 
 O R in Rio é uma ideia que foi gestada por Joao Pedro Oliveira e Pedro Cavalcante em uma
-linda tarde da quarentena.
+linda tarde da quarentena, projeto que posteriormente foi abraçado também por Marina Merlo.
 
 Temos como objetivo inicial oferecer cursos de R que fugissem
 do que é comumente ensinado nas universidades, pois temos a percepçao de que o ensino
@@ -32,4 +31,4 @@ como Rust, Clojure, Python e está iniciando em OCaml.
 
 - Pedro Cavalcante é [para ser preenchido].
 
-- Marina Merlo [para ser preenchido].
+- **Marina Merlo**: Doutoranda em Ciência Política pela USP, pesquisadora e co-fundadora do Grupo de Estudos de Gênero e Política (Gepô/DCP-USP) e pesquisadora associada do Centro Brasileiro de Análise e Planejamento (CEBRAP) e do Núcleo de Estudos Comparados e Internacionais (NECI). Além das aplicações acadêmicas, trabalhou com R como cientista de dados na Folha de S. Paulo durante as eleições de 2018 e como assistente de pesquisa na Fundação Getúlio Vargas. Está dando os primeiros passos em Python.
