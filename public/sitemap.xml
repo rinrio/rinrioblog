@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/abertura-turma2-introducao-r/</loc>
-    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+    <loc>/page/material/</loc>
+    <lastmod>2020-12-15T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/</loc>
+    <lastmod>2020-12-15T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-15T02:13:50+00:00</lastmod>
   </url>
   
   <url>
@@ -13,12 +23,12 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/post/abertura-turma2-introducao-r/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,16 +44,6 @@
   
   <url>
     <loc>/page/cursos/</loc>
-    <lastmod>2020-09-13T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page/material/</loc>
-    <lastmod>2020-09-13T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page/</loc>
     <lastmod>2020-09-13T02:13:50+00:00</lastmod>
   </url>
   
