@@ -23,7 +23,7 @@ Teremos 4 aulas de 2 horas cada, que seguirão o cronograma:
 
 -   Programaçao Funcional: Com ajuda da biblioteca purrr, aprenderá os princípios do paradigma de programação funcional e entenderá como por meio dele é possivel escrever código eficiente, simples e resistente a erros.
 
-**Inscriçoes fechadas**. Possui interesse? Preencha [esse formulário aqui!](https://forms.gle/gHNiQdjLBLLBZBJT7)
+**Inscriçoes ABERTAS**. A inscriçao pode ser realizada por meio do [nossoo evento na Eventbrite](https://www.eventbrite.com.br/e/curso-do-r-janeiro-tickets-121095376531).
 
 ### Sobre o curso avançado:
 
