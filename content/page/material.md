@@ -13,6 +13,8 @@ Nessa página temos o arquivo do material utilizado nas ediçoes do curso. Todo 
 
 O material da segunda ediçao, que foi oferecida dos dias 6-14 de Outubro de 2020, pode ser encontrado [neste link](https://drive.google.com/drive/folders/1BwHeSGTumcaL7VVt0lwgBM5Kwe8qf7gm?usp=sharing).
 
+------------------------------------------------------------------------
+
 Todos os arquivos estao sob licença [Creative Commons Atribuição 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).
 
 É permitido compartilhar, copiar, transformar e expandir o conteúdo, desde que seja atribuido o devido crédito aos autores originais.
