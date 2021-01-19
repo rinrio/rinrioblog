@@ -11,7 +11,7 @@ Nessa página temos o arquivo do material utilizado nas ediçoes do curso. Todo 
 
 -   Ediçao 2
 
-O material da segunda ediçao, que foi oferecida dos dias 6-14 de Outubro de 2020, pode ser encontrado [neste link](https://drive.google.com/drive/folders/1BwHeSGTumcaL7VVt0lwgBM5Kwe8qf7gm?usp=sharing).
+O material da segunda ediçao, que foi oferecida dos dias 6-14 de Outubro de 2020, pode ser encontrado [EM ATUALIZAÇAO]().
 
 ------------------------------------------------------------------------
 
